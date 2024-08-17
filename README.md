@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @CryptoMessiah 
-- 👀 I’m interested in coding for a living ...
-- 🌱 I’m currently learning Bcom in Business Information Systems ...
-- 💞️ I’m looking to collaborate on development of decentralized applications (dApps) ...
+- 👋 Hi, I’m Thato Syagen Mathetsa.
+- 👀 I’m intersrested in growing my digital world knowledge consumption. With the aim to use
+      the acquired knowledge to develop technological solutions for our socioeconomic interferences.
+- 🌱 Enrolled for a Bachelor of Commerce in Information Systems at the University of Johannesburg.
+- 💞️ I'm actively available to collaborate on sustainable project developments.
+- ✨ Skills : [c#] [Python] [Dart] [JavaScript] [SQL] [Web-development] [Flutter] [Firebase] [.NET] 
 - 📫 How to reach me : mrtsm@protonmail.com ...
 
 <!---
